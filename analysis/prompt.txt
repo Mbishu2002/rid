@@ -1,0 +1,1 @@
+lets create report class,  it generates report like , Data table ( which maybe its quatitaitive analysis) followed by  it's qualitative analysis , a table must have a table name
